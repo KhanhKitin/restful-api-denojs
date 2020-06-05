@@ -1,2 +1,2 @@
-# restful-api-denojs
+# restful-api-deno
 Build a RESTFul API CRUD with Deno, MongoDB, Oak 
